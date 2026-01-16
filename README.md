@@ -177,7 +177,7 @@ if (mode === 'customer') {
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shivamanibrt/slack-rag-api.git
 cd slack-knowledge-system/api
 ```
 
